@@ -18,6 +18,9 @@ int main()
     cin>>j>>k;
     cout<<j%k;
     
+    int l, m;
+    cin>>l>>m;
+    cout<<l/m;
     
     
     return 0;

@@ -20,6 +20,7 @@ int main()
     
     // day la minh hoang đm thang nay 
     //oke bo may la suc vat dm hoang mono
+    // day hoang luu ddm thang nay
     return 0;
    
 }

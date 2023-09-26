@@ -18,6 +18,8 @@ int main()
     cin>>j>>k;
     cout<<j%k;
     
+    // day la minh hoang đm thang nay 
+    //oke bo may la suc vat dm hoang mono
     return 0;
-    // day la minh hoang
+   
 }

@@ -13,6 +13,11 @@ int main()
     int e, f;
     cin>>e>>f;
     cout<<e*f;
+
+    int j , k;
+    cin>>j>>k;
+    cout<<j%k;
+    
     
     return 0;
 

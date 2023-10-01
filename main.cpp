@@ -10,6 +10,19 @@ int main()
     cin>>c>>d;
     cout<<c-d;
     
-    return 0;
+    int e, f;
+    cin>>e>>f;
+    cout<<e*f;
 
+    int j , k;
+    cin>>j>>k;
+    cout<<j%k;
+    
+    int l, m;
+    cin>>l>>m;
+    cout<<l/m;
+    
+    //this is master branch
+    return 0;
+   
 }
